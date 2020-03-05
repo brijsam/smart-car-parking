@@ -8,9 +8,9 @@
 #define IR2 D2
 #define IR3 D3
               ////////////////////////  Here we are declaring Variable for nodemcu to acessour ID and PASS and AUTH Key   /////// 
-char auth[] = "HuSJKkx7dq0qNUqllWsx61C81l3wgrJg";
-char ssid[] = "Brij sam";
-char pass[] = "brij963478";
+char auth[] = "";
+char ssid[] = "";
+char pass[] = "";
 
 WidgetLED led1(V1);
 WidgetLED led2(V2);
