@@ -12,7 +12,7 @@
 #include <Wire.h>
 
 #define FIREBASE_HOST "iot-based-smart-parking-brij.firebaseio.com"                 // the project name address from firebase id
-#define FIREBASE_AUTH "utxHZh3b1DwFKa4KWTo4GjJQQSU34OWEjXF39jUl"            // the secret key generated from firebase
+#define FIREBASE_AUTH ""            // the secret key generated from firebase
 
 #define WIFI_SSID ""                                             // input your home or public wifi name 
 #define WIFI_PASSWORD ""                                    //password for Wifi
